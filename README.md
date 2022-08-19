@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning ReactJS and Sequelize
 - 💞️ I’m looking to collaborate on anything js related!
-- 📫 How to reach me: Calimero#2948 on Discord!
+- 📫 How to reach me: Calimero#2948 on Discord or just send me an email at alexandre97costa@gmail.com
 
 <!---
 alexandre97costa/alexandre97costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
