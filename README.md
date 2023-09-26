@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex! A web developer with an interest in UI/UX & A11Y
 - 🌱 Currently learning Svelte(Kit)
-- 
+
 - 💞️ I’m looking to collaborate on anything js related!
 - 📫 Discord: calim3r0
 
