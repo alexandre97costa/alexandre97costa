@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alexandre97costa
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning ReactJS and Sequelize
+- 👋 Hi, I’m Alex! A web developer with an interest in UI/UX & A11Y
+- 🌱 Currently learning Svelte(Kit)
+- 
 - 💞️ I’m looking to collaborate on anything js related!
-- 📫 How to reach me: Calimero#2948 on Discord or just send me an email at alexandre97costa@gmail.com
+- 📫 Discord: calim3r0
 
 <!---
 alexandre97costa/alexandre97costa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
